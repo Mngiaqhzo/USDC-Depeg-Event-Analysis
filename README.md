@@ -58,8 +58,7 @@ It uses DuneSQL to analyze:
 │   └── README.md
 ├── data/
 │   └── README.md
-├── .gitignore
-└── LICENSE
+
 ```
 
 ---
