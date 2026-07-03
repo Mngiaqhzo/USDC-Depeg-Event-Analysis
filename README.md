@@ -12,6 +12,8 @@ The core thesis of this project is:
 
 This project connects stablecoin mechanics, DEX market structure, Curve pool imbalance, and TradFi settlement constraints.
 
+The dashboard reconstructs DEX-implied prices, Curve 3pool imbalance, and DAI contagion to show how fiat-backed stablecoin pegs depend on arbitrage channels.
+
 ---
 
 ## What this project demonstrates
@@ -52,9 +54,6 @@ It uses DuneSQL to analyze:
 │   ├── case-study.md
 │   ├── methodology.md
 │   ├── publishing-checklist.md
-│   └── resume-bullets.md
-├── docs/original-claude/
-│   └── original-visible-conversation.md
 ├── screenshots/
 │   └── README.md
 ├── data/
